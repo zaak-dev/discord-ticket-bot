@@ -1,8 +1,7 @@
 Discord Ticket Bot
 Author
-Biyamin - Brazilian Full Stack Developer
-https://biyamin-js.github.io/
-https://github.com/biyamin-js
+Zak Dev - Brazilian Full Stack Developer
+https://github.com/zaak-dev
 Professional ticket system bot for Discord with modern button interface.
 
 Quick Setup
@@ -33,5 +32,6 @@ How to Use
 The bot will create a ticket panel with "Create Ticket" button
 
 Users click the button to open private support tickets
+
 
 Staff can close tickets with confirmation system
