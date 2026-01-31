@@ -1,8 +1,7 @@
 Discord Ticket Bot
 Author
-Biyamin - Brazilian Full Stack Developer
-https://biyamin-js.github.io/
-https://github.com/biyamin-js
+Zak Dev - Brazilian Full Stack Developer
+https://github.com/zaak-dev
 Professional ticket system bot for Discord with modern button interface.
 
 Quick Setup
